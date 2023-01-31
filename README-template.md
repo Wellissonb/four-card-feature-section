@@ -37,8 +37,8 @@ I learned to use the grid better, since I had never put into practice what I lea
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/Wellissonb/four-card-feature-section)
+- Live Site URL: [Add live site URL here](https://wellissonb.github.io/four-card-feature-section/)
 
 ## My process
 
