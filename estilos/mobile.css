@@ -25,12 +25,7 @@
 
 main{
     width: 320px;
-    height: 1200px;
-
-
-
     margin: 5vw auto;
-    
 }
 
 .grid-container{
@@ -60,7 +55,8 @@ main{
 }
 
 .topo{
-    margin-bottom: 80px;
+    margin-bottom: 20px;
+    height: 210px;
 }
 
 #primeiroT{
